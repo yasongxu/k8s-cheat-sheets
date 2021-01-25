@@ -2,15 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/images/log.png"
 
 title: k8s cheat sheet
-description: 
-
----
-layout: default
-title: docs
-nav_order: 4
-has_children: true
-has_toc: false
----
+description: " k8s cheat sheet"
 
 search_enabled: true
 search:
@@ -44,22 +36,6 @@ footer_content: "Copyright &copy; 2021-2025 xuyasong Distributed by an <a href=\
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-  # ignore:
-  #   envs: all
-  
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-      
 
 
 ga_tracking: UA-5555555-55
