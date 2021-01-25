@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "/image/log.png"
+logo: "/image/logo.png"
 
 title: k8s cheat sheet
 description: " k8s cheat sheet"
