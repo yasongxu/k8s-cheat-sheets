@@ -1,1 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+logo: "/images/log.png"
+ga_tracking: UA-5555555-55
+ga_tracking_anonymize_ip: true
