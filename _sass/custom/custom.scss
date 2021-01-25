@@ -4,3 +4,7 @@
 .site-footer {
    display: none;
 }
+
+.main {
+    margin-left: calc( (100% - 1064px) / 2 + 180px );
+}
