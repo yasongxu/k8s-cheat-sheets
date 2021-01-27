@@ -2,7 +2,9 @@ remote_theme: pmarsceill/just-the-docs
 logo: "/image/logo.png"
 
 title: k8s cheat sheet
-description: " k8s cheat sheet"
+description: "k8s cheat sheet"
+permalink: pretty
+nav_sort: case_sensitive
 
 search_enabled: true
 search:
@@ -38,6 +40,6 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 
-ga_tracking: UA-5555555-55
+ga_tracking: UA-138410595-3
 ga_tracking_anonymize_ip: true
 
