@@ -1,7 +1,7 @@
 
 title: K8S Cheat Sheet
 remote_theme: pmarsceill/just-the-docs
-logo: "/image/logo.png"
+#logo: "/image/logo.png"
 description: "k8s cheat sheet"
 url: "https://k7s.io"
 
