@@ -6,6 +6,8 @@ description: "k8s cheat sheet"
 permalink: pretty
 nav_sort: case_sensitive
 
+exclude: ["LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
+
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
