@@ -1,8 +1,8 @@
 ---
 layout: default
-title: container
+title: kubectl
 parent: kubernetes
 nav_order: 1
 ---
 
-## container
+## kubectl
