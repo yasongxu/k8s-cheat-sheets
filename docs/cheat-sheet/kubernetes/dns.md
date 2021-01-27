@@ -1,9 +1,8 @@
 ---
+title: dns
 layout: default
-title: container
 parent: kubernetes
 grand_parent: cheat-sheet
-nav_order: 1
+nav_order: 4
 ---
-
-## container
+## dns

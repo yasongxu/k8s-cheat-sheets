@@ -1,9 +1,8 @@
 ---
+title: helm
 layout: default
-title: network
 parent: kubernetes
 grand_parent: cheat-sheet
-nav_order: 1
+nav_order: 3
 ---
-
-## nework
+## minikube

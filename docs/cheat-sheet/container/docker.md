@@ -1,7 +1,8 @@
 ---
-title: prom
+title: docker
 layout: default
-parent: prometheus
+parent: container
 grand_parent: cheat-sheet
 nav_order: 1
 ---
+

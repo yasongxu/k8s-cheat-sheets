@@ -1,9 +1,0 @@
----
-layout: default
-title: cmd
-parent: kubectl
-grand_parent: kubernetes
-nav_order: 1
----
-
-## xx

@@ -6,7 +6,7 @@ description: "k8s cheat sheet"
 permalink: pretty
 nav_sort: case_sensitive
 
-exclude: ["LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
+exclude: ["LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "image/", "_sass/"]
 
 search_enabled: true
 search:

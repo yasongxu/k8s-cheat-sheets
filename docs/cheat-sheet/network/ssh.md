@@ -1,9 +1,8 @@
 ---
+title: ssh
 layout: default
-title: kubectl
-parent: kubernetes
+parent: network
 grand_parent: cheat-sheet
 nav_order: 1
 ---
-
-## kubectl
+## 
