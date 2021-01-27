@@ -1,8 +1,7 @@
 ---
 title: dns
 layout: default
-parent: kubernetes
-grand_parent: cheat-sheet
-nav_order: 4
+parent: Kubernetes
+grand_parent: Cheat Sheet
 ---
 ## dns

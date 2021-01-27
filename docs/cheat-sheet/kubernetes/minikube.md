@@ -1,8 +1,8 @@
 ---
 title: minikube
 layout: default
-parent: kubernetes
-grand_parent: cheat-sheet
+parent: Kubernetes
+grand_parent: Cheat Sheet
 nav_order: 2
 ---
 ## minikube

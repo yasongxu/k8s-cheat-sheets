@@ -1,8 +1,8 @@
 ---
 title: crictl
 layout: default
-parent: container
-grand_parent: cheat-sheet
+parent: Container
+grand_parent: Cheat Sheet
 nav_order: 1
 ---
 

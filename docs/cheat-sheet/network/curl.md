@@ -1,8 +1,9 @@
 ---
 title: curl
 layout: default
-parent: network
-grand_parent: cheat-sheet
+parent: Network
+grand_parent: Cheat Sheet
 nav_order: 5
 ---
-## 
+## curl
+

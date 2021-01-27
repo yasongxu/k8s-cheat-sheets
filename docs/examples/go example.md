@@ -1,6 +1,6 @@
 ---
 title: go example
 layout: default
-parent: examples
+parent: Examples
 nav_order: 1
 ---

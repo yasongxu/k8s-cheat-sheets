@@ -1,8 +1,8 @@
 ---
-title: kubernetes
+title: Kubernetes
 layout: default
 has_children: true
-parent: cheat-sheet
+parent: Cheat Sheet
 nav_order: 1
 ---
 

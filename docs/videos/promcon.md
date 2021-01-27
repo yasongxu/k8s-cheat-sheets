@@ -1,6 +1,6 @@
 ---
 title: promcon
 layout: default
-parent: videos
+parent: Videos
 nav_order: 2
 ---

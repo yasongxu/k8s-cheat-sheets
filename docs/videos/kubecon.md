@@ -1,6 +1,6 @@
 ---
 title: kubecon
 layout: default
-parent: videos
+parent: Videos
 nav_order: 1
 ---

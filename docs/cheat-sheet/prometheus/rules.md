@@ -1,7 +1,7 @@
 ---
 title: rules
 layout: default
-parent: prometheus
-grand_parent: cheat-sheet
+parent: Prometheus
+grand_parent: Cheat Sheet
 nav_order: 2
 ---
