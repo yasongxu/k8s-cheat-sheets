@@ -1,12 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
+
+logo: "/image/logo.png"
 title: k8s cheat sheet
 description: "k8s cheat sheet"
-logo: "/image/logo.png"
 
 permalink: pretty
 nav_sort: case_sensitive
 
-exclude: ["LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "image/", "_sass/"]
+exclude: ["LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
 
 search_enabled: true
 search:
