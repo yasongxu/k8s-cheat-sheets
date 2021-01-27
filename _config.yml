@@ -1,8 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
-logo: "/image/logo.png"
-
 title: k8s cheat sheet
 description: "k8s cheat sheet"
+logo: "/image/logo.png"
+url: "https://yasongxu.github.io/k8s-cheat-sheets/"
+
 permalink: pretty
 nav_sort: case_sensitive
 
